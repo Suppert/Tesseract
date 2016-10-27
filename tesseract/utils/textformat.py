@@ -1,0 +1,2 @@
+# textformat.py
+Class TextFormat():
