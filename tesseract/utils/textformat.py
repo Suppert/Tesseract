@@ -19,3 +19,4 @@ Class TextFormat():
             text.replace("§n", TextFormat.UNDERLINE)
             text.replace("§d", TextFormat.PURPLE)
             text.replace("§5", TextFormat.PURPLE)
+
