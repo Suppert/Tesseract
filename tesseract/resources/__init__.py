@@ -1,3 +1,1 @@
-#from tesseract import Tesseract
-
-#todo
+# __init__.py
