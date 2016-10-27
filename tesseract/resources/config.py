@@ -1,6 +1,6 @@
 """
 THIS IS COPIED FROM THE SPIFFY SERVER SOFTWARRE
-LINK: UNKNOWN
+LINK: https://github.com/spiffy/spiffy
 """
 
 import json
