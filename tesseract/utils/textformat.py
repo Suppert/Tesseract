@@ -12,7 +12,7 @@
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 """
-Class TextFormat():    
+class TextFormat():    
     GREEN = '\x1b[1;32;40m'
     RED = '\x1b[1;31;40m'
     AQUA = '\x1b[1;34;40m'
