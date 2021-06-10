@@ -17,12 +17,12 @@ import sys
 try:
   from pyraklib.server import PyRakLibServer
   from pyraklib.server import ServerHandler
-  found = true
+  found = True
 except ImportError:
-  found = false
+  found = False
   pass
 
-if found == false:
+if not found:
   sys.exit("Unable to load all modules")
 
 config = config.handle_config()
