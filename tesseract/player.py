@@ -12,7 +12,7 @@
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 """
-Class Player:
+class Player:
     GAMEMODE_SURVIVAL = 0
     GAMEMODE_CREATIVE = 1
     GAMEMODE_ADVENTURE = 2
